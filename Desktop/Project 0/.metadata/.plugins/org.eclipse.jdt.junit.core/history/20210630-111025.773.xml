@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Testing" project="project0" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.revature.project0.Testing" time="1.64" displayname="Testing" uniqueid="[engine:junit-jupiter]/[class:com.revature.project0.Testing]">
+    <testcase name="testOne" classname="com.revature.project0.Testing" time="0.931" displayname="testOne()" uniqueid="[engine:junit-jupiter]/[class:com.revature.project0.Testing]/[method:testOne()]"/>
+    <testcase name="testTwo" classname="com.revature.project0.Testing" time="0.708" displayname="testTwo()" uniqueid="[engine:junit-jupiter]/[class:com.revature.project0.Testing]/[method:testTwo()]"/>
+  </testsuite>
+</testrun>
